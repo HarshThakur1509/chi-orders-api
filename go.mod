@@ -1,4 +1,4 @@
-module example/orders-api
+module github.com/HarshThakur1509/chi-orders-api
 
 go 1.21.6
 
