@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/redis/go-redis"
+	"github.com/redis/go-redis/v9"
 )
 
 type App struct {
